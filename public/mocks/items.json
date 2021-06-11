@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "author": "tracymcgrady",
+    "photo": "/photos/iphone-cover.jpg",
+    "likes": 1720,
+    "location": "",
+    "userId": 1,
+    "authorDesc": "",
+    "authorLogo": "/author-1.jpg",
+    "description": "Leaf iPhone case hard plastic",
+    "createdAt": "2020-09-17 12:30",
+    "tags": "#iphone #cases #mobilephones #hardplastic #cover #macbookpro"
+  },
+  {
+    "id": 2,
+    "author": "theodorelincoln",
+    "photo": "/photos/thor-image.jpg",
+    "likes": 1300,
+    "location": "",
+    "userId": 2,
+    "authorDesc": "",
+    "authorLogo": "/author-2.jpg",
+    "description": "I'm Still Worthy!",
+    "createdAt": "2020-09-17 12:25",
+    "tags": "#thor #avengers #mcu #hammer #action #movie #toprated"
+  },
+  {
+    "id": 3,
+    "author": "theodorelincoln",
+    "photo": "/photos/3.jpg",
+    "likes": 2720,
+    "location": "London, UK",
+    "userId": 2,
+    "authorDesc": "",
+    "authorLogo": "/author-2.jpg",
+    "description": "Fresh apples!!",
+    "createdAt": "2020-09-17 12:20",
+    "tags": "#apples #ripe #fruit #healthy #tasty"
+  },
+  {
+    "id": 4,
+    "author": "tracymcgrady",
+    "photo": "/photos/4.jpg",
+    "likes": 3920,
+    "location": "London, UK",
+    "userId": 1,
+    "authorDesc": "",
+    "authorLogo": "/author-1.jpg",
+    "description": "Relaxing work from home",
+    "createdAt": "2020-09-17 12:15",
+    "tags": "#workfromhome #coffee #laptop #peace #productivity"
+  },
+  {
+    "id": 5,
+    "author": "tracymcgrady",
+    "photo": "/photos/5.jpg",
+    "likes": 3720,
+    "location": "London, UK",
+    "userId": 2,
+    "authorDesc": "",
+    "authorLogo": "/author-1.jpg",
+    "description": "Nikon Camera",
+    "createdAt": "2020-09-17 12:03",
+    "tags": "#Nikon #photography #lens #quality #portrait"
+  }
+]

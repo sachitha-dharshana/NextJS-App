@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.menu-padding {
+  padding-top: 70px !important;
+  padding-bottom: 70px !important;
+}
+
+.navbar {
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 5%), inset 0 -1px 0 rgb(0 0 0 / 15%);
+}
+
+.logo {
+  object-fit: contain;
+}
+
+.tags {
+  color: #89cbe8 !important;
+}
+
+.white-space-break {
+  white-space: break-space;
+}
+
+.container-md {
+  max-width: 550px !important;
+}
+
+.author-img {
+  height: 64px !important;
+  width: 64px;
+  object-fit: cover;
+}
+
+button,
+button:focus {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+button:hover,
+button:focus,
+button:visited {
+  background-color: inherit !important;
+}
+
+button.clicked > svg {
+  fill: red;
+}
+
+.likes {
+  margin-left: 10px;
+}
+
+.author-pg-img {
+  height: 120px;
+  width: 120px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:visited,
+.btn-primary:active {
+  color: #fff;
+}
+
+@media screen and (max-width: 992px) {
+  .menu-padding {
+    padding-top: 30px !important;
+    padding-bottom: 70px !important;
+  }
+}
